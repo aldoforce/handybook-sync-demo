@@ -1,0 +1,1198 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"T_S",
+				"T_Shirt_Size__c"
+			],
+			[
+				"IN",
+				"Internet__c"
+			],
+			[
+				"Smart",
+				"Smart_Phone__c"
+			],
+			[
+				"T",
+				"T_Shirt_Style__c"
+			],
+			[
+				"if",
+				"ife	if … else … end"
+			],
+			[
+				"encode",
+				"encoded_id"
+			],
+			[
+				"test",
+				"test"
+			],
+			[
+				"pol",
+				"policyID"
+			],
+			[
+				"appl",
+				"applicationID"
+			],
+			[
+				"applica",
+				"Application__c"
+			],
+			[
+				"Le",
+				"Lead__r"
+			],
+			[
+				"Lead_",
+				"Lead_App_Policy_Junction__c"
+			],
+			[
+				"Lead",
+				"Lead__c"
+			],
+			[
+				"w",
+				"WhatID"
+			],
+			[
+				"Application",
+				"Applications"
+			],
+			[
+				"getUs",
+				"PUBLIC getUserId() 	String"
+			],
+			[
+				"Da",
+				"DataBunkerModels	[Custom Apex Class]"
+			],
+			[
+				"Connec",
+				"connectorCampaign"
+			],
+			[
+				"new",
+				"PUBLIC newInstanceGmt(Integer year, Integer month, Integer day, Integer hour, Integer minute, Integer second) 	Datetime"
+			],
+			[
+				"g",
+				"PRIVATE generateRandomString(Integer pSize) 	String"
+			],
+			[
+				"Databun",
+				"DataBunkerAuthenticationHandler	[Custom Apex Class]"
+			],
+			[
+				"to",
+				"toBase64"
+			],
+			[
+				"bn",
+				"bnonce"
+			],
+			[
+				"Enc",
+				"base64Encode"
+			],
+			[
+				"de",
+				"PUBLIC base64Decode(String s) 	Blob"
+			],
+			[
+				"URL",
+				"URLEncode"
+			],
+			[
+				"getRa",
+				"getRandomChar"
+			],
+			[
+				"get",
+				"getDatetimeISO8601"
+			],
+			[
+				"Data",
+				"DataBunkerAuthenticationHandler"
+			],
+			[
+				"apex",
+				"apex:column"
+			],
+			[
+				"Cal",
+				"CallHandler	[Custom Apex Class]"
+			],
+			[
+				"pTa",
+				"pTaskID"
+			],
+			[
+				"call",
+				"callDurationInSeconds"
+			],
+			[
+				"asser",
+				"assertEquals()"
+			],
+			[
+				"pt",
+				"pTask"
+			],
+			[
+				"pab",
+				"apex:pageBlockSectionItem"
+			],
+			[
+				"page",
+				"apex:pageBlockSection"
+			],
+			[
+				"ou",
+				"apex:outputText"
+			],
+			[
+				"o",
+				"apex:outputLabel"
+			],
+			[
+				"Notes",
+				"NotesNotDetectedException"
+			],
+			[
+				"copm",
+				"compareTo"
+			],
+			[
+				"Note",
+				"Note"
+			],
+			[
+				"ass",
+				"assertNotEquals()"
+			],
+			[
+				"JSON",
+				"JSONParser	[Standard Apex Class]"
+			],
+			[
+				"HTTP",
+				"HTTPResult"
+			],
+			[
+				"WebSer",
+				"webservice"
+			],
+			[
+				"Date",
+				"Datetime	[Standard Apex Class]"
+			],
+			[
+				"cit",
+				"cityToBuildingMap"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"size",
+				"sizeof"
+			],
+			[
+				"P",
+				"Payment_URL__c 	Url"
+			],
+			[
+				"i",
+				"isInsert"
+			],
+			[
+				"Os_",
+				"Os_old"
+			],
+			[
+				"Os",
+				"Os_new"
+			],
+			[
+				"is",
+				"isUpdate"
+			],
+			[
+				"Tri",
+				"Trigger"
+			],
+			[
+				"AAs",
+				"AAs_new"
+			],
+			[
+				"AA",
+				"AAs_old"
+			],
+			[
+				"WW",
+				"WW_Sync_Request__c 	Checkbox"
+			],
+			[
+				"Accoun",
+				"AccountID"
+			],
+			[
+				"Trigg",
+				"TriggersFlags	[Custom Apex Class]"
+			],
+			[
+				"Oppo",
+				"Opportunity__c"
+			],
+			[
+				"Tour",
+				"Tour_Outcome__c"
+			],
+			[
+				"M",
+				"MOpportunityOwners"
+			],
+			[
+				"Op",
+				"Opportunity"
+			],
+			[
+				"tour",
+				"Toured_By1__c 	Lookup"
+			],
+			[
+				"Test",
+				"TestUtility	[Custom Apex Class]"
+			],
+			[
+				"ru",
+				"runAs(User_user_var)"
+			],
+			[
+				"WW_",
+				"WW_Sync_Request__c"
+			],
+			[
+				"assert",
+				"assertEquals()"
+			],
+			[
+				"Payment_",
+				"Payment_Details_Status__c 	Picklist"
+			],
+			[
+				"RestR",
+				"RestRequest	[Standard Apex Class]"
+			],
+			[
+				"stage",
+				"stagesToSync"
+			],
+			[
+				"asse",
+				"assertEquals()"
+			],
+			[
+				"Paymen",
+				"Payment_URL__c"
+			],
+			[
+				"update",
+				"updatePaymentURLforOpportunities"
+			],
+			[
+				"system",
+				"systemmodstamp"
+			],
+			[
+				"WW_S",
+				"WW_Synced__c"
+			],
+			[
+				"UU",
+				"UUID__c"
+			],
+			[
+				"set",
+				"setFailure"
+			],
+			[
+				"I",
+				"ID_Creation_Status_Code__c"
+			],
+			[
+				"m",
+				"INNER CLASS Meta() 	"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"Account",
+				"Account_ID_Creation_Status_Code__c"
+			],
+			[
+				"WWH",
+				"WWHandlerException"
+			],
+			[
+				"add",
+				"PUBLIC addMessage(String msg) 	LoggerServices"
+			],
+			[
+				"Member",
+				"INNER CLASS MemberResult() 	"
+			],
+			[
+				"Ke",
+				"Keycard_Number__c"
+			],
+			[
+				"Memb",
+				"Members"
+			],
+			[
+				"pC",
+				"pContacts"
+			],
+			[
+				"sub",
+				"PUBLIC submit_members(LIST pContacts) 	WWResult"
+			],
+			[
+				"Co",
+				"INNER CLASS CompanyResult() 	"
+			],
+			[
+				"d",
+				"PUBLIC deserialize(String jsonString, system.Type apexType) 	Object"
+			],
+			[
+				"Logg",
+				"LoggerServices"
+			],
+			[
+				"s",
+				"PUBLIC serializePretty(Object o) 	String"
+			],
+			[
+				"htt",
+				"HttpRequestWrapper"
+			],
+			[
+				"O",
+				"Opportunity__c"
+			],
+			[
+				"mon",
+				"Monthly_Payment_Method__c"
+			],
+			[
+				"Opp",
+				"Opportunity_Reservable__c"
+			],
+			[
+				"_",
+				"Monthly_Payment_Method__c"
+			],
+			[
+				"hex_",
+				"hex_Y"
+			],
+			[
+				"he",
+				"hexadecimal"
+			],
+			[
+				"replace",
+				"PUBLIC replace(String target, String replacement) 	String"
+			],
+			[
+				"Z",
+				"Zip"
+			],
+			[
+				"A_",
+				"A_End_State__c"
+			],
+			[
+				"Orders",
+				"OrdersHistory"
+			],
+			[
+				"POD",
+				"POD_Type__c"
+			],
+			[
+				"Pod",
+				"Pod_Product__r"
+			],
+			[
+				"Page",
+				"PageReference"
+			],
+			[
+				"b",
+				"Body__c"
+			],
+			[
+				"Kn",
+				"Knowledge_Base__c"
+			],
+			[
+				"KB",
+				"KBItem"
+			],
+			[
+				"Pro",
+				"ProductID"
+			],
+			[
+				"load",
+				"loadProduct"
+			],
+			[
+				"Product",
+				"Product__c"
+			],
+			[
+				"produc",
+				"productID"
+			],
+			[
+				"In",
+				"IncidentExtensionController"
+			],
+			[
+				"incide",
+				"incidentDetails"
+			],
+			[
+				"pro",
+				"productID"
+			],
+			[
+				"Ty",
+				"Type_of_Product__c"
+			],
+			[
+				"Inc",
+				"Incident__c"
+			],
+			[
+				"pr",
+				"productID"
+			],
+			[
+				"S",
+				"SELECT"
+			],
+			[
+				"Inci",
+				"IncidentExtensionControllerException"
+			],
+			[
+				"from",
+				"fromAddress"
+			],
+			[
+				"Conta",
+				"Contact__c"
+			],
+			[
+				"Incident",
+				"Incident__c"
+			],
+			[
+				"Hold",
+				"Hold_Reason__c"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 167.0,
+		"selected_items":
+		[
+			[
+				"add re",
+				"Package Control: Add Repository"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"new tri",
+				"MavensMate: New Apex Trigger"
+			],
+			[
+				"new cl",
+				"MavensMate: New Apex Class"
+			],
+			[
+				"run test",
+				"MavensMate: Run Apex Tests..."
+			],
+			[
+				"run",
+				"MavensMate: Run Apex Tests..."
+			],
+			[
+				"exe",
+				"MavensMate: Execute Apex..."
+			],
+			[
+				"new class",
+				"MavensMate: New Apex Class"
+			],
+			[
+				"new clas",
+				"MavensMate: New Apex Class"
+			],
+			[
+				"new pag",
+				"MavensMate: New Visualforce Page"
+			],
+			[
+				"new cla",
+				"MavensMate: New Apex Class"
+			],
+			[
+				"new",
+				"MavensMate: New Apex Class"
+			],
+			[
+				"new pa",
+				"MavensMate: New Visualforce Page"
+			],
+			[
+				"new ",
+				"MavensMate: New Apex Class"
+			],
+			[
+				"test",
+				"MavensMate: Run Apex Tests..."
+			],
+			[
+				"run a",
+				"MavensMate: Run Apex Tests..."
+			],
+			[
+				"run t",
+				"MavensMate: Run Apex Tests..."
+			],
+			[
+				"new tr",
+				"MavensMate: New Apex Trigger"
+			],
+			[
+				"new c",
+				"MavensMate: New Apex Class"
+			],
+			[
+				"new trigg",
+				"MavensMate: New Apex Trigger"
+			],
+			[
+				"run te",
+				"MavensMate: Run Async Apex Tests For This Class"
+			],
+			[
+				"exec",
+				"MavensMate: Execute Apex..."
+			],
+			[
+				"newcla",
+				"MavensMate: New Apex Class"
+			],
+			[
+				"execute",
+				"MavensMate: Execute Apex..."
+			],
+			[
+				"newtr",
+				"MavensMate: New Apex Trigger"
+			],
+			[
+				"new trig",
+				"MavensMate: New Apex Trigger"
+			],
+			[
+				"new apex",
+				"MavensMate: New Apex Class"
+			],
+			[
+				"new pr",
+				"MavensMate: New Project"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"new page",
+				"MavensMate: New Visualforce Page"
+			],
+			[
+				"open pro",
+				"MavensMate: Open Project"
+			],
+			[
+				"json",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"run tests",
+				"MavensMate: Run Apex Tests"
+			],
+			[
+				"open proje",
+				"MavensMate: Open Project"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"fold",
+				"Code Folding: Unfold All"
+			],
+			[
+				"mave",
+				"MavensMate: Run Apex Tests"
+			],
+			[
+				"colla",
+				"Code Folding: Unfold All"
+			],
+			[
+				"snipp",
+				"Snippet: ApexDebug"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: test",
+				"Snippet: ApexTestMethod"
+			],
+			[
+				"Snippet: ",
+				"Snippet: ApexTestMethod"
+			],
+			[
+				"Snippet: try",
+				"Snippet: --> try catch finally"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Github: Open File"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 363.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/aldo/dev/handybook_sync/streaming/apex-push-topic.txt",
+		"/Users/aldo/dev/handybook_web/views/layout.slim",
+		"/Users/aldo/dev/handybook_web/views/message.slim",
+		"/Users/aldo/dev/handybook_web/views/candidate_details.slim",
+		"/Users/aldo/dev/handybook_web/views/apply.slim",
+		"/Users/aldo/dev/handybook_web/lib/Salesforce_Connector.rb",
+		"/Users/aldo/dev/handybook_web/web.rb",
+		"/Users/aldo/dev/wework.com.dev/rest_client/request_opportunityDetails.rb",
+		"/Users/aldo/dev/handybook_web/Gemfile",
+		"/Users/aldo/dev/handybook_web/views/login.slim",
+		"/Users/aldo/dev/handybook_web/views/signup.slim",
+		"/Users/aldo/dev/handybook_web/views/hello.slim",
+		"/Users/aldo/dev/handybook_web/config.ru",
+		"/Users/aldo/dev/handybook_web/.bundle/install.log",
+		"/Users/aldo/dev/handybook_web/handybook-web-demo.sublime-project",
+		"/Users/aldo/dev/handybook_web/README.md",
+		"/Users/aldo/dev/spring.com.dev/src/classes/TestLeadAppPolicyJunction.cls",
+		"/Users/aldo/dev/spring.com.dev/src/triggers/LeadAppPolicyTaskJunction.trigger",
+		"/Users/aldo/dev/spring.com.dev/src/triggers/LeadRelatedTask.trigger",
+		"/Users/aldo/dev/spring.com.dev/src/classes/TestDVHPostIssueReminderTrigger.cls",
+		"/Users/aldo/Library/Application Support/Sublime Text 3/Packages/User/mavensmate.sublime-settings",
+		"/Users/aldo/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/aldo/dev/spring.com.dev/src/classes/NotesHandler.cls",
+		"/Users/aldo/dev/spring.com.dev/src/classes/DataBunkerModels.cls",
+		"/Users/aldo/dev/spring.com.dev/src/classes/LeadCallsController.cls",
+		"/Users/aldo/dev/spring.com.dev/src/classes/DataBunkerModelsTest.cls",
+		"/Users/aldo/dev/spring.com.dev/src/classes/LeadCallsControllerTest.cls",
+		"/Users/aldo/dev/spring.com.dev/src/classes/LeadNotesController.cls",
+		"/Users/aldo/dev/spring.com.dev/src/classes/NotesHandlerTest.cls",
+		"/Users/aldo/dev/spring.com.dev/src/classes/DataBunkerServices.cls",
+		"/Users/aldo/dev/spring.com.dev/src/classes/MockServices.cls",
+		"/Users/aldo/dev/spring.com.dev/src/classes/CallHandler.cls",
+		"/Users/aldo/dev/spring.com.dev/src/classes/LeadNotesControllerTest.cls",
+		"/Users/aldo/dev/spring.com.dev/src/triggers/InsertCallTask.trigger",
+		"/Users/aldo/dev/spring.com.dev/src/classes/LeadNotesHelper.cls",
+		"/Users/aldo/dev/spring.com.dev/src/classes/CustomSettingsServices.cls",
+		"/Users/aldo/dev/spring.com.dev/src/classes/DataBunkerAuthenticationHandler.cls",
+		"/Users/aldo/dev/spring.com.dev/src/classes/CampaignMemberHelper.cls",
+		"/Users/aldo/dev/spring.com.dev/src/classes/LeadUtils.cls",
+		"/Users/aldo/dev/spring.com.dev/src/classes/DataBunkerAuthenticationHandlerTest.cls",
+		"/Users/aldo/dev/spring.com.dev/src/classes/CallHandlerTest.cls",
+		"/Users/aldo/dev/spring.com.dev/src/pages/lead_calls.page",
+		"/Users/aldo/dev/spring.com.dev/src/classes/LeadCallsTest.cls",
+		"/Users/aldo/dev/spring.com.dev/src/classes/LeadCallController.cls",
+		"/Users/aldo/dev/spring.com.dev/src/classes/TestInsertCallTaskTrigger.cls",
+		"/Users/aldo/dev/spring.com.dev/src/pages/lead_notes.page",
+		"/Users/aldo/Downloads/wework_schedule_a_tour/lib/config/config.ini",
+		"/Users/aldo/Downloads/wework_schedule_a_tour/wework_scheduleatour.php",
+		"/Users/aldo/Downloads/wework_schedule_a_tour/scheduleatour_submit.php",
+		"/Users/aldo/Downloads/wework_schedule_a_tour/scheduleatour_availability.php",
+		"/Users/aldo/Downloads/wework_schedule_a_tour/page-scheduleatour.php",
+		"/Volumes/Ramsey Apps/scheduleatour.php",
+		"/Volumes/Ramsey Apps/lib/config/config.ini",
+		"/Volumes/Ramsey Apps/lib/core/SalesforceConnector.class.php",
+		"/Volumes/Ramsey Apps/lib/core/SalesforceConnector.sbox.class.php",
+		"/Users/aldo/dev/wework.com.dev/src/triggers/AccountSyncRequest.trigger",
+		"/Users/aldo/dev/wework.com.dev/src/classes/WWHandlerTest.cls",
+		"/Users/aldo/dev/wework.com.dev/src/classes/TestWWSyncRequestTriggers.cls",
+		"/Users/aldo/dev/wework.com.dev/src/classes/TestOpportunityPaymentLink.cls",
+		"/Users/aldo/dev/wework.com.dev/src/triggers/OpportunityPaymentLink.trigger",
+		"/Users/aldo/dev/wework.com.dev/src/classes/WWHandler.cls",
+		"/Users/aldo/dev/wework.com.dev/src/classes/RESTPaymentNotificationTest.cls",
+		"/Users/aldo/dev/wework.com.dev/src/classes/JSONFactory.cls",
+		"/Users/aldo/dev/wework.com.dev/src/classes/WWServices.cls",
+		"/Users/aldo/dev/wework.com.dev/src/classes/WWJobDispatcher.cls",
+		"/Users/aldo/dev/wework.com.dev/rest_client/send_payment.rb",
+		"/Users/aldo/dev/wework.com.dev/src/triggers/ContactSyncRequest.trigger",
+		"/Users/aldo/dev/wework.com.dev/src/classes/TestAccountPrimaryMemberChange.cls",
+		"/Users/aldo/dev/wework.com.dev/src/triggers/AccountPrimaryMemberChange.trigger",
+		"/Users/aldo/dev/wework.com.dev/src/classes/WWTypes.cls",
+		"/Users/aldo/dev/wework.com.dev/src/classes/BuildingHandler.cls",
+		"/Users/aldo/dev/wework.com.dev/src/classes/OpportunityServices.cls",
+		"/Users/aldo/dev/wework.com.dev/src/triggers/OpportunityClosedWonNotification.trigger",
+		"/Users/aldo/dev/wework.com.dev/apex-scripts/manual_submit_members.txt",
+		"/Users/aldo/dev/wework.com.dev/src/triggers/OpportunityStageToTour.trigger",
+		"/Users/aldo/dev/wework.com.dev/src/triggers/TourCompleted.trigger",
+		"/Users/aldo/dev/wework.com.dev/src/classes/TestOpportunityStageToTourTrigger.cls",
+		"/Users/aldo/dev/wework.com.dev/src/classes/TriggersFlags.cls",
+		"/Users/aldo/dev/wework.com.dev/src/classes/TestTourCompletedTrigger.cls",
+		"/Users/aldo/dev/wework.com.dev/src/triggers/TourScheduledUpdateOpportunity.trigger",
+		"/Users/aldo/dev/wework.com.dev/src/classes/RESTPaymentNotification.cls",
+		"/Users/aldo/dev/wework.com.dev/src/classes/MockServices.cls",
+		"/Users/aldo/dev/wework.com.dev/src/classes/CustomSettingsServices.cls",
+		"/Users/aldo/dev/wework.com.dev/src/classes/BuildingHandlerTest.cls",
+		"/Users/aldo/dev/wework.com.dev/mock/APIExamples.txt",
+		"/Users/aldo/dev/wework.com.dev/src/classes/RESTToursAvailability.cls",
+		"/Users/aldo/dev/wework.com.dev/src/classes/TestTourServices.cls",
+		"/Users/aldo/dev/wework.com.dev/src/classes/TourServices.cls",
+		"/Users/aldo/dev/wework.com.dev/src/classes/UUIDHandlerTest.cls",
+		"/Users/aldo/dev/wework.com.dev/src/classes/TestOpportunityReservablesPayment.cls",
+		"/Users/aldo/dev/wework.com.dev/src/classes/TestDocusignTriggers.cls",
+		"/Users/aldo/dev/wework.com.dev/src/triggers/DocusignStatusOpportunityWon.trigger",
+		"/Users/aldo/dev/wework.com.dev/src/pages/MassEditOpp.page",
+		"/Users/aldo/dev/wework.com.dev/src/classes/LoggerServices.cls",
+		"/Users/aldo/dev/wework.com.dev/src/classes/TestUtility.cls",
+		"/Users/aldo/dev/wework.com.dev/src/classes/WWResult.cls",
+		"/Users/aldo/dev/wework.com.dev/src/classes/WWResultTest.cls",
+		"/Volumes/Perseus/salesforce/portal/create-order.php",
+		"/Volumes/Perseus/salesforce/portal/classes/OrdersHandler.class.php",
+		"/Volumes/Perseus/salesforce/sof/classes/CircuitHandler.class.php",
+		"/Users/aldo/dev/wework.sandbox/src/classes/TestGenerateUUIDTriggers.cls",
+		"/Users/aldo/dev/wework.sandbox/src/triggers/GenerateUUIDAccount.trigger",
+		"/Users/aldo/dev/wework.sandbox/src/triggers/GenerateUUIDContact.trigger",
+		"/Users/aldo/dev/aoa.sandbox/src/triggers/DocusignStatusOpportunitySigned.trigger",
+		"/Users/aldo/dev/aoa.sandbox/src/classes/TestDocusignStatusOpportunitySigned.cls",
+		"/Users/aldo/dev/aoa.sandbox/src/triggers/DocusignStatusOpportunitySigned.trigger-meta.xml",
+		"/Users/aldo/dev/aoa.sandbox/src/classes/TestDocuSignStatusOpportunitySignedTrigger.cls",
+		"/Users/aldo/dev/aoa.sandbox/src/triggers/GenerateOpportunityMD5.trigger",
+		"/Users/aldo/dev/aoa.sandbox/src/classes/MD5Handler.cls",
+		"/Users/aldo/dev/aoa.sandbox/src/classes/MD5HandlerTest.cls",
+		"/Users/aldo/dev/aoa.sandbox/src/classes/TestGenerateMD5Trigger.cls",
+		"/Users/aldo/dev/aoa.sandbox/src/classes/TriggerFlags.cls",
+		"/Volumes/aldo/Videos/Homeland.S01/Homeland.S01E09.HDTV.XviD-LOL.srt",
+		"/Volumes/aldo/Videos/Homeland.S01/Homeland.S01E08.HDTV.XviD-ASAP.srt",
+		"/Users/aldo/dev/wework.sandbox/src/classes/UUIDHandlerTest.cls",
+		"/Users/aldo/dev/wework.sandbox/src/classes/UUIDHandler.cls",
+		"/Users/aldo/Library/Application Support/Sublime Text 3/Packages/User/ApexTestMethod.sublime-snippet",
+		"/Users/aldo/Library/Application Support/Sublime Text 3/Packages/User/ApexDebug.sublime-snippet",
+		"/Users/aldo/Library/Application Support/Sublime Text 3/Packages/User/ApexTry.sublime-snippet",
+		"/Volumes/Perseus/salesforce/portal/inventory_form.php",
+		"/Volumes/Perseus/salesforce/portal/classes/PortalHandler.class.php",
+		"/Volumes/Perseus/salesforce/portal/classes/InventoryHandler.class.php",
+		"/Volumes/Perseus/wp-content/themes/theme_perseus/page-create-order.php",
+		"/Volumes/Perseus/salesforce/sof/classes/TemplateHandler.class.php",
+		"/Volumes/Perseus/wp-content/themes/theme_perseus/js/create-order.js",
+		"/Volumes/Perseus/salesforce/portal/inventory_form_2.php",
+		"/Volumes/Perseus/salesforce/portal/classes/PortalInventoryHandler.class.php",
+		"/Users/aldo/dev/perseus3.dev/src/components/OrdersHistory.component"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"*.*",
+			"*cls-meta.xml"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"referred",
+			"empty",
+			"message",
+			"begin_application",
+			" == \"true\" ? \"checked\" : \"\"",
+			"'",
+			" ? \"selected\" : \"\"",
+			"option selected",
+			"candidate",
+			"type=\"text\"",
+			"professional_cleaning_experience",
+			"fields << ",
+			"option ",
+			"apply_as_a",
+			"\"",
+			"\">",
+			"</option>",
+			"<option value=",
+			"navbar",
+			".notes",
+			"notes",
+			"NotesResult",
+			"leadID",
+			"model",
+			"connectorCampaign",
+			"susername",
+			"outputField",
+			"subject",
+			"LeadNotesController",
+			"ET phone home",
+			"notes",
+			"Notes",
+			"notes",
+			"nr",
+			"Notes",
+			"NotesResult",
+			"text",
+			"Note",
+			"note",
+			"text",
+			"notes",
+			"nr",
+			"Notes",
+			"Lead",
+			"Notes",
+			"text",
+			"notes",
+			"nr",
+			"Calls",
+			"note",
+			"Note",
+			"n3",
+			"n2",
+			"n1",
+			"Note",
+			"test_",
+			"Exception",
+			"WWSync_Setup__c",
+			"WWResult",
+			"Payment",
+			"Sent",
+			"pAccount",
+			"init",
+			"//system",
+			"ID_Status",
+			"tag_sync_payment_request_Account",
+			"tag_primary_contact_as_member",
+			"Member_Type",
+			"ID_Status__c",
+			"updatePaymentURLforOpportunities",
+			"tag_sync_payment_request_Account",
+			"',\n",
+			"ID_Status",
+			"Kind__c",
+			"Kind",
+			"ClosedWonCs",
+			"ClosedWonAAs",
+			", Type",
+			"Type",
+			"Status",
+			"submit_members",
+			"submit_Members",
+			"submit_members",
+			"submit_Members",
+			"Tour__c",
+			"submit_P",
+			"WW_Sync_Payment_Request__c",
+			"'Member'",
+			"Member",
+			"payment_detail",
+			"payment_details",
+			"Payment_Status__c",
+			"p.",
+			"public String",
+			"test_building",
+			"pOpportunityID",
+			"'Active'",
+			"||",
+			"Member",
+			"x",
+			"result",
+			"pParentAccountIDs",
+			"SAccountIDs",
+			"RXServicesException",
+			"RXResult",
+			"WW_Sync_Requested__c",
+			"Account",
+			"RXResult",
+			";",
+			"Circuit1.",
+			"Monthly_Payment_Method",
+			"				",
+			"Monthly_Payment_Method",
+			"v1",
+			"docuSignStatus",
+			"select",
+			"Account",
+			"test_Account_1",
+			"A End",
+			"A_End",
+			"SomeObject",
+			"SomeObject__History",
+			"SomeObjectHistory",
+			"SomeObjectHistoryController",
+			"A-End",
+			"A End",
+			"A_End",
+			"Product_Won_Number__c ="
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".note",
+			"note",
+			"lead_id",
+			"'active'",
+			"WWResult",
+			"Contact",
+			"Z End",
+			"Z_End",
+			"Orders",
+			"Orders__History",
+			"OrderHistoryController",
+			"Z-End",
+			"Z End",
+			"Z_End",
+			"moo",
+			"doo",
+			"zz_",
+			"Active",
+			"#bootstrap-force .",
+			"Description__c",
+			"Term__c",
+			"Z_End_Demarcation__c",
+			"Order_Number__c",
+			"Product__r",
+			"Product__c",
+			"Inventory",
+			"{0}",
+			"04:00",
+			"Process submitted, reload the record to check results",
+			"\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MavensMate-OutputPanel":
+	{
+		"height": 285.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "handybook_sync.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"mock",
+				"src/classes/MockServices.cls"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"hans",
+				"/home/aldo/dev/hanson.sandbox/hanson.sandbox.sublime-project"
+			],
+			[
+				"",
+				"/home/aldo/dev/cftsys.pkg/cftsys.pkg.sublime-project"
+			],
+			[
+				"mr",
+				"/home/aldo/dev/mrn.pkg/mrn.pkg.sublime-project"
+			],
+			[
+				"ha",
+				"/home/aldo/dev/hanson.sandbox/hanson.sandbox.sublime-project"
+			],
+			[
+				"dev",
+				"/home/aldo/dev/dev31/dev31.sublime-project"
+			],
+			[
+				"perse",
+				"/home/aldo/dev/perseus3.dev/perseus3.dev.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 141.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
