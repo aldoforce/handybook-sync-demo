@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 gem 'bundler'
 gem 'restforce'
-gem 'faye', '1.0.1'
+gem 'faye', '0.8.9'
+gem 'pry'
+
 ruby "2.0.0"
 
