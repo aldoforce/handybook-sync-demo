@@ -1,1 +1,1 @@
-worker: bundle exec ruby daemon.rb
+console: bundle exec ruby daemon.rb
