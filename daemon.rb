@@ -1,16 +1,22 @@
 require 'faye'
 require 'pry'
+require 'rufus-scheduler'
 
 #declare lib folder
 $LOAD_PATH.unshift( File.join( File.dirname(__FILE__), 'lib' ) )
 require 'Salesforce_Connector'
+require 'database_layer'
 
+#display logs
 $stdout.sync = true
 
 class Daemon
   def initialize()
     #define salesforce connector
     @sfdc = Salesforce_Connector.new
+
+    #database abstract layer
+    @db = DatabaseLayer.new
   end
 
   def kickoff
@@ -39,7 +45,6 @@ class Daemon
           self.request_update(logID, sobjectID)
         end 
       end
-
     rescue Exception => e
        puts "Could not authenticate. Not listening for streaming events."
        puts e
@@ -50,16 +55,29 @@ class Daemon
     begin
       puts "  Processing logID:#{logID} accountID:#{accountID}"
 
-      candidate = @sfdc.get_candidate(accountID)
+      #get candidate
+      candidate = @sfdc.get_candidate(accountID)      
       
       puts "    Sending to external Database: #{candidate.Id}"
+
+      #upsert
+      @db.upsert_candidate(candidate)
 
       #destroy log
       @sfdc.destroy_log(logID)
 
       puts "    log entry deleted"
+    rescue Faraday::Error::ResourceNotFound => not_found
+      puts "The candidate was not found because it was deleted."
+      puts "Deleting on external Database: #{accountID}"     
+      
+      #delete
+      @db.delete_candidate(accountID)
+
+      #destroy log
+      @sfdc.destroy_log(logID)
     rescue Exception => ex
-      raise ex
+      puts ex
     end
   end
 
@@ -76,8 +94,23 @@ class Daemon
   end
 end
 
-# Main process
-puts "Daemon init"
-d = Daemon.new
-d.resume_processing
-d.kickoff
+
+# Scheduler
+scheduler = Rufus::Scheduler.new
+
+# Main process, repeat each 2hrs
+scheduler.every '2h', :first_in => '1s' do
+  # init
+  puts "Daemon init"
+  d = Daemon.new
+
+  # resume pending
+  d.resume_processing
+
+  # kick off listener
+  d.kickoff  
+end
+
+#submit thread
+scheduler.join
+

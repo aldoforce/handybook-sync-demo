@@ -42,7 +42,12 @@ GEM
       faraday_middleware (>= 0.8.8)
       hashie (>= 1.2.0, < 2.1)
       json (>= 1.7.5, < 1.9.0)
+    rufus-scheduler (3.0.8)
+      tzinfo
     slop (3.5.0)
+    thread_safe (0.3.4)
+    tzinfo (1.2.1)
+      thread_safe (~> 0.1)
     websocket-driver (0.3.3)
     yajl-ruby (1.2.0)
 
@@ -54,3 +59,4 @@ DEPENDENCIES
   faye (= 0.8.9)
   pry
   restforce
+  rufus-scheduler

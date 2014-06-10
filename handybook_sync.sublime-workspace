@@ -4,6 +4,38 @@
 		"selected_items":
 		[
 			[
+				"res",
+				"resume_processing"
+			],
+			[
+				"do",
+				"dob	Insert do |variable| … end"
+			],
+			[
+				"candidate",
+				"candidate"
+			],
+			[
+				"Bi",
+				"BillingPostalCode"
+			],
+			[
+				"Po",
+				"Phone"
+			],
+			[
+				"log",
+				"logID"
+			],
+			[
+				"sob",
+				"sobjectID"
+			],
+			[
+				"c",
+				"cla	class .. < ParentClass .. initialize .. end"
+			],
+			[
 				"ram",
 				"ramseysolutions"
 			],
@@ -336,10 +368,6 @@
 				"INNER CLASS Meta() 	"
 			],
 			[
-				"res",
-				"result"
-			],
-			[
 				"Account",
 				"Account_ID_Creation_Status_Code__c"
 			],
@@ -486,34 +514,6 @@
 			[
 				"Ty",
 				"Type_of_Product__c"
-			],
-			[
-				"Inc",
-				"Incident__c"
-			],
-			[
-				"pr",
-				"productID"
-			],
-			[
-				"S",
-				"SELECT"
-			],
-			[
-				"Inci",
-				"IncidentExtensionControllerException"
-			],
-			[
-				"from",
-				"fromAddress"
-			],
-			[
-				"Conta",
-				"Contact__c"
-			],
-			[
-				"Incident",
-				"Incident__c"
 			]
 		]
 	},
@@ -523,7 +523,15 @@
 			"file": "daemon.rb",
 			"settings":
 			{
-				"buffer_size": 1412,
+				"buffer_size": 2053,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/Salesforce_Connector.rb",
+			"settings":
+			{
+				"buffer_size": 939,
 				"line_ending": "Unix"
 			}
 		},
@@ -550,6 +558,10 @@
 		"height": 167.0,
 		"selected_items":
 		[
+			[
+				"prett",
+				"Pretty JSON: Minify (compress) JSON"
+			],
 			[
 				"add re",
 				"Package Control: Add Repository"
@@ -783,6 +795,7 @@
 	},
 	"file_history":
 	[
+		"/Users/aldo/dev/handybook_sync/Salesforce_Connector.rb",
 		"/Users/aldo/dev/handybook_sync/sid.rb",
 		"/Users/aldo/dev/handybook_sync/streaming/apex-push-topic.txt",
 		"/Users/aldo/dev/handybook_web/views/layout.slim",
@@ -909,8 +922,7 @@
 		"/Volumes/Perseus/wp-content/themes/theme_perseus/page-create-order.php",
 		"/Volumes/Perseus/salesforce/sof/classes/TemplateHandler.class.php",
 		"/Volumes/Perseus/wp-content/themes/theme_perseus/js/create-order.js",
-		"/Volumes/Perseus/salesforce/portal/inventory_form_2.php",
-		"/Volumes/Perseus/salesforce/portal/classes/PortalInventoryHandler.class.php"
+		"/Volumes/Perseus/salesforce/portal/inventory_form_2.php"
 	],
 	"find":
 	{
@@ -1105,7 +1117,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -1114,15 +1126,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1412,
+						"buffer_size": 2053,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1404,
-								1404
+								837,
+								837
 							]
 						],
 						"settings":
@@ -1132,14 +1144,43 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 96.0,
+						"translation.y": 310.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lib/Salesforce_Connector.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 939,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								132,
+								132
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 1,
+					"buffer": 2,
 					"file": "Gemfile",
 					"semi_transient": false,
 					"settings":
@@ -1167,7 +1208,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 3,
 					"file": "Procfile",
 					"semi_transient": false,
 					"settings":
@@ -1191,7 +1232,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
