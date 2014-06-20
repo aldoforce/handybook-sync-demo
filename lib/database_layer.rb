@@ -10,7 +10,7 @@ class DatabaseLayer
 
 	#delete the row using candidate.Id as primary key
 	def delete_candidate(accountID)
-		puts "DB::delete #{candidate.Id}"
+		puts "DB::delete #{accountID}"
 	end
 
 end
